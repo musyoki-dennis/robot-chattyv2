@@ -90,8 +90,6 @@ Trading forex and CFDs carries a high risk of loss, and you can lose more than y
 
 ## Author
 
-Your name / GitHub username here.
+musyoki-dennis
 
-## License
 
-Choose a license (for example MIT) and add a `LICENSE` file to this repository.
